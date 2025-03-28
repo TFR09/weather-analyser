@@ -1,0 +1,18 @@
+Turing Moore Engineering Temperature Data Analyser 1.0
+Name: 
+Student ID: 
+Due: 24/09/2023
+Desired Level: Pass
+
+How to Use:
+This software will display temperature data for Avalon Airport, Bendigo Airport or Both.
+You will be prompted to enter the Airport for which the data you would like to see.
+Enter 'Avalon' for Avalon Airport Data, enter 'Bendigo' for Bendigo Airport Data or enter 'Both' to view data for both Airports.
+
+Select Airport to view data: 'Avalon', 'Bendigo' or 'Both': AvalonThe data for Avalon Airport is as follows: 
+Number of rows: 366
+Number of columns: 8
+Temperature of hottest day is 38.799999 Degrees Celsius on 27/12/2022
+Temperature of coldest day is 9.200000 Degrees Celsius on 31/5/2022
+The average temperature for the year is 19.786566 Degrees Celsius
+The median temperature for the year is 18 Degrees Celsius
